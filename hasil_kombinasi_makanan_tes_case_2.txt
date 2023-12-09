@@ -1,0 +1,58 @@
+
+Kombinasi Makanan yang Memenuhi Syarat:
+Kombinasi: EZ Restaurant-Style Hummus, Easy Crunchy Yummy Sauerkraut, Wine Gummy Bears, Grape Cubes
+Total Kalori: 2796.050675455458, Protein: 106.04876032985834 g, Lemak: 64.99576938916115 g, Karbohidrat: 452.0063952836146 g
+
+Kombinasi: Healthy Salad Dressing, Sugared Flowers recipes, Stecca Sandwich Bread recipes, Artichoke Hummus recipes
+Total Kalori: 2776.746919177887, Protein: 101.8028011553524 g, Lemak: 64.00632242579381 g, Karbohidrat: 464.58864615167596 g
+
+Kombinasi: Healthy Salad Dressing, Lemon Mint Ice Cubes, Stecca Sandwich Bread recipes, Artichoke Hummus recipes
+Total Kalori: 2798.1176400599375, Protein: 101.35675865542623 g, Lemak: 64.93956242580916 g, Karbohidrat: 471.57690409269804 g
+
+Kombinasi: Healthy Salad Dressing, Mushroom Skulls, Stecca Sandwich Bread recipes, White Bean Dip Recipe
+Total Kalori: 2813.832599792321, Protein: 107.09842655535141 g, Lemak: 60.43769035245817 g, Karbohidrat: 464.5181130925297 g
+
+Kombinasi: Healthy Salad Dressing, Easy Crunchy Yummy Sauerkraut, Sweet Potato Kale Bites, A Greek Diet Recipe[spanakorizo]spinach With Rice.
+Total Kalori: 2678.507597404153, Protein: 104.97699062290896 g, Lemak: 64.40487416447635 g, Karbohidrat: 470.3200960031443 g
+
+Kombinasi: Healthy Salad Dressing, Westward Pita Bread recipes, Stecca Sandwich Bread recipes, Artichoke Hummus recipes
+Total Kalori: 2760.164996059061, Protein: 100.36694415535239 g, Lemak: 64.65751622579381 g, Karbohidrat: 461.211202092548 g
+
+Kombinasi: Healthy Salad Dressing, Stecca Sandwich Bread recipes, Artichoke Hummus recipes, Tomato Salt
+Total Kalori: 2795.1381400590612, Protein: 100.1786011553524 g, Lemak: 64.22542242579381 g, Karbohidrat: 472.56139909254796 g
+
+Kombinasi: Healthy Salad Dressing, Stecca Sandwich Bread recipes, Sazon, White Bean Dip Recipe
+Total Kalori: 2735.740599792321, Protein: 99.78587655535141 g, Lemak: 62.264640352458166 g, Karbohidrat: 453.2212130925297 g
+
+Kombinasi: Turmeric Carrot Cake Bites {GF, Low Cal, Vegan} recipes, Mushroom Skulls, Sweet Potato Kale Bites, A Greek Diet Recipe[spanakorizo]spinach With Rice.
+Total Kalori: 2679.341884903625, Protein: 102.10676894290387 g, Lemak: 63.9804523144186 g, Karbohidrat: 456.822353703145 g
+
+Kombinasi: Turmeric Carrot Cake Bites {GF, Low Cal, Vegan} recipes, Wine Gummy Bears, A Greek Diet Recipe[spanakorizo]spinach With Rice., White Bean Dip Recipe
+Total Kalori: 2858.2655609035346, Protein: 109.23606725956851 g, Lemak: 60.19466222025072 g, Karbohidrat: 461.57551457811985 g
+
+Kombinasi: Sugared Flowers recipes, Stecca Sandwich Bread recipes, Creamy Curry Dressing, White Bean Dip Recipe
+Total Kalori: 2697.2038789171907, Protein: 101.24709655552405 g, Lemak: 65.05396035300349 g, Karbohidrat: 431.58873015187686 g
+
+Kombinasi: Easy Roasted Garlic, Sweet Potato Kale Bites, Artichoke Hummus recipes, A Greek Diet Recipe[spanakorizo]spinach With Rice.
+Total Kalori: 2665.6232261708997, Protein: 108.29827394291004 g, Lemak: 62.16777064781154 g, Karbohidrat: 456.2365287031662 g
+
+Kombinasi: Easy Roasted Garlic, Butterscotch Fudge, White Bean Dip Recipe, Black Bean Meatless Meatballs
+Total Kalori: 2724.690729613158, Protein: 99.96059949615845 g, Lemak: 62.769266988760116 g, Karbohidrat: 458.3987258702044 g
+
+Kombinasi: Mushroom Skulls, Easy Crunchy Yummy Sauerkraut, Cajun Seasoning Mix, White Bean Dip Recipe
+Total Kalori: 2661.415069055497, Protein: 102.12682263555459 g, Lemak: 62.41436588777713 g, Karbohidrat: 462.94452352220395 g
+
+Kombinasi: Mushroom Skulls, Fajita Marinade I, Stecca Sandwich Bread recipes, White Bean Dip Recipe
+Total Kalori: 2767.361599792386, Protein: 101.48161155535252 g, Lemak: 61.09522035245834 g, Karbohidrat: 454.7965130925516 g
+
+Kombinasi: Middle Eastern Spice Blend, Stecca Sandwich Bread recipes, Creamy Curry Dressing, Black Bean Meatless Meatballs
+Total Kalori: 2739.4731581765336, Protein: 99.69453459315862 g, Lemak: 63.529235655681006 g, Karbohidrat: 458.8099003432048 g
+
+Kombinasi: Roasted Pumpkin-Carrot Soup, Butterscotch Fudge, White Bean Dip Recipe, Black Bean Meatless Meatballs
+Total Kalori: 2754.3383546131295, Protein: 103.87262449615731 g, Lemak: 61.08634198875993 g, Karbohidrat: 471.41006337019763 g
+
+Kombinasi: Garam Masala, Butterscotch Fudge, White Bean Dip Recipe, Black Bean Meatless Meatballs
+Total Kalori: 2732.657729613158, Protein: 102.71368199615846 g, Lemak: 59.51867698876011 g, Karbohidrat: 470.07070087020435 g
+
+Kombinasi: Butterscotch Fudge, White Bean Dip Recipe, Black Bean Meatless Meatballs, Coconut Chutney
+Total Kalori: 2786.531729613158, Protein: 102.12809949615846 g, Lemak: 63.37119198876012 g, Karbohidrat: 471.98588587020436 g
